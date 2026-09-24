@@ -1,0 +1,45 @@
+.image {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.baka {
+    height: 100px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: rgb(195, 9, 12);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button, .button1 {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font-family: Impact;
+    font-size: x-large;
+    color:rgb(0, 0, 0)
+}
+
+.div {
+    background-color: rgb(92, 5, 63);
+}
+
+img {
+    height: 500px;
+    width: 500px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: xx-large;
+    font-family: Impact;
+
+    display: flex;
+    justify-content: center;
+}
